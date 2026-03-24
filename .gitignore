@@ -1,0 +1,21 @@
+__pycache__/ 
+*.py[cod] 
+*$py.class 
+ 
+# PyTorch checkpoints 
+*.pt 
+*.pth 
+ 
+# Data folder 
+data/ 
+ 
+# Jupyter notebooks checkpoints 
+.ipynb_checkpoints/ 
+ 
+# OS files 
+.DS_Store 
+Thumbs.db 
+ 
+# Virtual environment 
+venv/ 
+.env/ 
